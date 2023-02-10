@@ -1,0 +1,3 @@
+ignore:
+  - "lholipop/test"
+  - "lholipop/_version.py"
